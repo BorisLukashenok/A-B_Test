@@ -42,16 +42,16 @@
 
 ### Настройка эксперимента
 
-![Изи](.\Screen1.jpg)
+![Изи](Screen1.jpg)
 
 ### Запуск
 
-![Изи](.\Screen2.jpg)
+![Изи](Screen2.jpg)
 
 ### Работа
 
-![Изи](.\Screen3.jpg)
+![Изи](Screen3.jpg)
 
 ### Отчет
 
-![Изи](.\Screen4.jpg)
+![Изи](Screen4.jpg)
